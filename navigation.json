@@ -1,0 +1,68 @@
+{
+  "Introduction": [
+    {
+      "title": "Getting Started",
+      "version": "main",
+      "uri": "getting-started"
+    },
+    {
+      "title": "UI Helpers",
+      "version": "main",
+      "uri": "ui-helpers"
+    }
+  ],
+  "Unleashing the Beast": [
+    {
+      "title": "Origins and Evolutions",
+      "version": "main",
+      "uri": "origins-and-evolutions"
+    },
+    {
+      "title": "Designing the King",
+      "version": "main",
+      "uri": "designing-the-king"
+    },
+    {
+      "title": "Godzilla's Roar",
+      "version": "main",
+      "uri": "godzillas-roar"
+    },
+    {
+      "title": "The Atomic Breath",
+      "version": "main",
+      "uri": "the-atomic-breath"
+    },
+    {
+      "title": "Understanding the Kaiju",
+      "version": "main",
+      "uri": "understanding-the-kaiju"
+    }
+  ],
+  "Enter the Humans": [
+    {
+      "title": "Finding Your Story",
+      "version": "main",
+      "uri": "finding-your-story"
+    },
+    {
+      "title": "Crafting Memorable Characters",
+      "version": "main",
+      "uri": "crafting-memorable-characters"
+    },
+    {
+      "title": "Establishing the Stakes",
+      "version": "main",
+      "uri": "establishing-the-stakes"
+    },
+    {
+      "title": "Settings the Scene",
+      "version": "main",
+      "uri": "settings-the-scene"
+    },
+    {
+      "title": "Writing Your Script",
+      "version": "main",
+      "uri": "writing-your-script"
+    }
+  ]
+}
