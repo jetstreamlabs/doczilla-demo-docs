@@ -2,67 +2,122 @@
   "Introduction": [
     {
       "title": "Getting Started",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "getting-started"
     },
     {
       "title": "UI Helpers",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "ui-helpers"
     }
   ],
   "Unleashing the Beast": [
     {
       "title": "Origins and Evolutions",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "origins-and-evolutions"
     },
     {
       "title": "Designing the King",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "designing-the-king"
     },
     {
       "title": "Godzilla's Roar",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "godzillas-roar"
     },
     {
       "title": "The Atomic Breath",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "the-atomic-breath"
     },
     {
       "title": "Understanding the Kaiju",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "understanding-the-kaiju"
     }
   ],
   "Enter the Humans": [
     {
       "title": "Finding Your Story",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "finding-your-story"
     },
     {
       "title": "Crafting Memorable Characters",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "crafting-memorable-characters"
     },
     {
       "title": "Establishing the Stakes",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "establishing-the-stakes"
     },
     {
       "title": "Settings the Scene",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "settings-the-scene"
     },
     {
       "title": "Writing Your Script",
-      "version": "1.0",
+      "version": "2.0",
       "uri": "writing-your-script"
     }
-  ]
+  ],
+  "Epic Showdowns": [
+    {
+      "title": "Choosing Your Godzilla",
+      "version": "2.0",
+      "uri": "choosing-your-godzilla"
+    },
+    {
+      "title": "Designing Other Kaiju",
+      "version": "2.0",
+      "uri": "designing-other-kaiju"
+    },
+    {
+      "title": "The Art of Destruction",
+      "version": "2.0",
+      "uri": "the-art-of-destruction"
+    },
+    {
+      "title": "Creating Convincing Miniatures",
+      "version": "2.0",
+      "uri": "creating-convincing-miniatures"
+    },
+    {
+      "title": "Crafting the Look",
+      "version": "2.0",
+      "uri": "crafting-the-look"
+    }
+  ],
+  "Roar": [
+    {
+      "title": "The Sound of Godzilla",
+      "version": "2.0",
+      "uri": "the-sound-of-godzilla"
+    },
+    {
+      "title": "Kaiju Sounds",
+      "version": "2.0",
+      "uri": "kaiju-sounds"
+    },
+    {
+      "title": "Musical Scores",
+      "version": "2.0",
+      "uri": "musical-scores"
+    },
+    {
+      "title": "Sound Effects",
+      "version": "2.0",
+      "uri": "sound-effects"
+    },
+    {
+      "title": "The Art of Silence",
+      "version": "2.0",
+      "uri": "the-art-of-silence"
+    }
+  ],
+  "Coming Soon": []
 }

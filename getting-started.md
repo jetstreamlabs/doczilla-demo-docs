@@ -11,11 +11,22 @@ tags:
 ## Welcome to Doczilla {.doc-heading}
 
 ```php
-/**
- * Check if the given version is in the published versions.
- */
-public function isPublishedVersion(string $version): bool
+protected function blockCodeContinue($Line, $Block)
 {
-  return in_array($version, $this->publishedVersions);
+  if ($Line['indent'] >= 4) {
+    if (isset($Block['interrupted'])) {
+      $Block['element']['text']['text'] .= "\n";
+
+      unset($Block['interrupted']);
+    }
+
+    $Block['element']['text']['text'] .= "\n";
+
+    $text = substr($Line['body'], 4);
+
+    $Block['element']['text']['text'] .= $text;
+
+    return $Block;
+  }
 }
 ```
