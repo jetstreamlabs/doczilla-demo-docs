@@ -1,0 +1,42 @@
+{
+  "private": true,
+  "scripts": {
+    "cn": "npm update"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "husky": "^8.0.3",
+    "semantic-release": "^22.0.10"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "header-max-length": [
+        2,
+        "always",
+        120
+      ],
+      "type-enum": [
+        2,
+        "always",
+        [
+          "breaking",
+          "feat",
+          "fix",
+          "refactor",
+          "docs",
+          "wip",
+          "chore",
+          "style",
+          "test"
+        ]
+      ]
+    }
+  }
+}
