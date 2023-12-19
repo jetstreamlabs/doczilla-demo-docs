@@ -2,66 +2,66 @@
   "Introduction": [
     {
       "title": "Getting Started",
-      "version": "main",
+      "version": "1.0",
       "uri": "getting-started"
     },
     {
       "title": "UI Helpers",
-      "version": "main",
+      "version": "1.0",
       "uri": "ui-helpers"
     }
   ],
   "Unleashing the Beast": [
     {
       "title": "Origins and Evolutions",
-      "version": "main",
+      "version": "1.0",
       "uri": "origins-and-evolutions"
     },
     {
       "title": "Designing the King",
-      "version": "main",
+      "version": "1.0",
       "uri": "designing-the-king"
     },
     {
       "title": "Godzilla's Roar",
-      "version": "main",
+      "version": "1.0",
       "uri": "godzillas-roar"
     },
     {
       "title": "The Atomic Breath",
-      "version": "main",
+      "version": "1.0",
       "uri": "the-atomic-breath"
     },
     {
       "title": "Understanding the Kaiju",
-      "version": "main",
+      "version": "1.0",
       "uri": "understanding-the-kaiju"
     }
   ],
   "Enter the Humans": [
     {
       "title": "Finding Your Story",
-      "version": "main",
+      "version": "1.0",
       "uri": "finding-your-story"
     },
     {
       "title": "Crafting Memorable Characters",
-      "version": "main",
+      "version": "1.0",
       "uri": "crafting-memorable-characters"
     },
     {
       "title": "Establishing the Stakes",
-      "version": "main",
+      "version": "1.0",
       "uri": "establishing-the-stakes"
     },
     {
       "title": "Settings the Scene",
-      "version": "main",
+      "version": "1.0",
       "uri": "settings-the-scene"
     },
     {
       "title": "Writing Your Script",
-      "version": "main",
+      "version": "1.0",
       "uri": "writing-your-script"
     }
   ]
