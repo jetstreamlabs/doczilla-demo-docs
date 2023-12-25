@@ -17,6 +17,34 @@ tags:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 :::
 
+:::: code-group#example
+@tab:active js#javascript
+
+```js
+/**
+ * @type {import('vitepress').UserConfig}
+ */
+const config = {
+  // ...
+};
+
+export default config;
+```
+
+@tab ts#typescript
+
+```ts
+import type { UserConfig } from 'vitepress';
+
+const config: UserConfig = {
+  // ...
+};
+
+export default config;
+```
+
+::::
+
 ::: info info
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 :::
