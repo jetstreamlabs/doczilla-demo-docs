@@ -10,6 +10,12 @@ tags:
 
 ## Welcome to Doczilla {.doc-heading}
 
+Check out this video!
+
+https://youtu.be/aqz-KE-bpKQ?si=Dx_fg0yxVtLD_zV8
+
+And here's some code.
+
 ```php
 protected function blockCodeContinue($Line, $Block)
 {

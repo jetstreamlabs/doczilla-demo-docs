@@ -115,4 +115,14 @@ Offendit eleifend moderatius ex vix, quem odio mazim et qui, purto expetendis co
 Scripta periculis ei eam, te pro movet reformidans. Scripta periculis ei eam, te pro movet reformidans. Qui gloriatur scribentur et, id velit verear mel, cum no porro debet.
 :::
 
+::: abstract requirements
+
+- Endpoint: `/api/2.1/details/{id}`
+- Method: `GET`
+- Params:
+  - Allowed: `record id in endpoint url`
+  - Required: `record id in endpoint url`
+
+:::
+
 Dicit dicant quaestio pri eu, no principes persecuti liberavisse sit. Sonet tibique sea et. Pri posse graeco definitiones cu, id eam populo quaestio adipiscing, usu quod malorum te. Vivendum intellegat et qui, ei denique consequuntur vix. Scripta periculis ei eam, te pro movet reformidans. Scripta periculis ei eam, te pro movet reformidans. Offendit eleifend moderatius ex vix, quem odio mazim et qui, purto expetendis cotidieque quo cu, veri persius vituperata ei nec.
